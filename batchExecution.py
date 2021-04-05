@@ -79,9 +79,9 @@ def uploadFileToBlob(
 
 def invokeBatchExecutionService():
 
-    storage_account_name = "mystorageacct"
-    storage_account_key = "Dx9WbMIThAvXRQWap/aLnxT9LV5txxw=="
-    storage_container_name = "mycontainer"
+    storage_account_name = "saritnewsstore"
+    storage_account_key = "xxxxxxxxxxxxxxx"
+    storage_container_name = "saritnewscontainer"
     connection_string = (
         "DefaultEndpointsProtocol=https;AccountName="
         + storage_account_name

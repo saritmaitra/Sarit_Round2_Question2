@@ -1,0 +1,13 @@
+"inference":[
+    {
+        "date_of_news":"February 23, 2018",
+        "title":"nGen_LUX is here",
+        "hyperlink":"https://learn.colorfabb.com/ngen_lux-is-here/",
+        "organizations_entity":[
+            [2, "Kristaps Politis"],
+        ]
+        "person_entity":[
+            [1, "David Payne"]
+        ]
+    }
+]
