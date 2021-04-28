@@ -35,7 +35,7 @@ Below are the workflow in two stages;
  -  stage1: Experiment pipeline
  -  stage2: Inferencing pipeline
  -  
-![](img/Experiment_Pipeline.PNG)
+![](img/Experiment_pipeline.PNG)
 
 ![](img/Inferencing_Pipeline.PNG)
 
